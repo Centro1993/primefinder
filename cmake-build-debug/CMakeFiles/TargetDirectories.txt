@@ -1,0 +1,3 @@
+/home/jonas/Desktop/Projekte/PrimeFinder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jonas/Desktop/Projekte/PrimeFinder/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jonas/Desktop/Projekte/PrimeFinder/cmake-build-debug/CMakeFiles/PrimeFinder.dir
